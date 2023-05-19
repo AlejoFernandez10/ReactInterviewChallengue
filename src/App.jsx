@@ -83,7 +83,7 @@ function App() {
 
 
         </section>
-        <button onClick={()=> getRandomFact() } style={{width:'100px', marginTop:'40px', marginBottom:'50px'}} >Refresh</button>
+        <button onClick={()=> getRandomFact() } style={{width:'100px', marginTop:'40px', marginBottom:'20px'}} >Refresh</button>
     </main>
   )
 }
